@@ -1,0 +1,31 @@
+html{
+  margin: 0px;
+  padding: 0px;
+}
+h1 , h2{
+  font-size: 30px;
+}
+td,th {
+  font-size:10px;
+  width: 100px;
+  text-align: center;
+  padding: 10px;
+}
+
+table{
+  margin: 15px;
+}
+
+.cabecalho{
+  background-color: #BB86FC;
+  color: aliceblue;
+}
+.dados , .produto , .tamanho , .valor , .cor{
+  background-color:  #424250;
+  color: aliceblue;
+  padding: 4px;
+}
+.casa{
+  background-color: #00C4B4;
+  color: aliceblue;
+}
